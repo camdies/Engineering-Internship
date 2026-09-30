@@ -1,0 +1,7 @@
+# 必备
+pandas>=2.0
+
+# 可选（向量检索 / 语义检索方向的同学会用到）
+# sentence-transformers
+# scikit-learn
+# faiss-cpu

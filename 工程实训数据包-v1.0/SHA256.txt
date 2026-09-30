@@ -1,0 +1,5 @@
+工程实训数据包 v1.0 · 完整性校验
+
+fd0e8ff31057f2d86248d8eb243cf41f2625f51d2e3b6f744091cb8e7f6967ca  geodata-teaching.db
+a7f33f78fe7d0ad7a391f1149bee441663077bde09fc076064800efdd03d3929  flat/datasets.jsonl
+578101e3673ee090ada4c14d1357d9b433295a3c72727ad951921d6fdda28df0  flat/datasets_preview.csv
